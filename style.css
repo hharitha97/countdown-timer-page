@@ -34,7 +34,7 @@ a {
   gap: 5%;
 }
 #countdown ul li {
-  flex: 25%;
+  flex: 100%;
   padding: 5%;
   margin: 0;
   list-style: none;
